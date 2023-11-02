@@ -16,7 +16,7 @@ It is fine to use a different tool if you prefer, but these are ones we like.
 
 ## 32 Flavors: Modeling an ice cream store
 
-Your first task is to create a data model. Mr. Bummbledore has indicated that he cares about the following:
+Your first task is to create a data model. Mr. Bumbledore has indicated that he cares about the following:
 
 ### Inventory
 
