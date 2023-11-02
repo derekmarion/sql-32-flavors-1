@@ -63,7 +63,7 @@ Currently there is only  one store, so, don't worry about multiple locations (ye
 
 ## Stage 2
 
-Exciting news! 32 Flavors has opened up a second, and a third, location! Two of them are even in the same state, and, since the employees seem to be move very very quickly (almost as if they're somehow flying) from Point A to Point B, several of them are now working at multiple stores.
+Exciting news! 32 Flavors has opened up a second, and a third, location! Two of them are even in the same state, and, since the employees seem to be able to move very, very quickly (almost as if they're somehow flying) from Point A to Point B, several of them are now working at multiple stores.
 
 ## Stage 3
 
