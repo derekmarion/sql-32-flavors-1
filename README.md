@@ -31,7 +31,7 @@ Sales are also simple. 32 Flavors sells one product:
 
 - Ice cream cone
 
-They have many different flavors and even offer *dairy-free* ice cream! Your ice cream comes in a waffle cone, a sugar cone, or, just for kids, [a cake cone](https://www.webstaurantstore.com/guide/678/types-of-ice-cream-cones.html).
+They have many different flavors and even offer *dairy-free* ice cream! Your ice cream comes in a waffle cone, a sugar cone, or, just for kids, [a cake cone](https://www.webstaurantstore.com/guide/678/types-of-ice-cream-cones.html). They also have *gluten-free* cones.
 
 ### Employees & Hours
 
