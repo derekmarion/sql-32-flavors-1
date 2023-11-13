@@ -60,6 +60,8 @@ Currently there is only  one store, so, don't worry about multiple locations (ye
 - Keep inventory simple and treat Buckets of Ice Cream and Boxes of Cones as two separate entities
 - Keep it as simple as you can with employees/hours and sales.
 
+![ERD Diagram](./images/erd.png)
+
 
 ## Stage 2
 
